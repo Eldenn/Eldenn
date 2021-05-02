@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Eldenn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computer development
+- 🌱 I’m currently learning back-end engineering
+- 📫 How to reach me => phone : +33783068165, email : matthieu.chane@alinktothegrowth.tech
 
-<!---
 Hello, I'm Matthieu and happy to get to know each other ! :)
 
 Since I was 18 years old, I have been passionate about computers and especially computer development. 
@@ -15,4 +13,3 @@ I am known for my passion, my sympathy, my commitment and my enthusiasm to alway
 
 I accompany projects to make them grow in the web and mobile world. 
 I develop applications/sites in order to achieve this goal. I also train students in order to accompany them in the world of computer development and bring them to become developers themselves.
---->
