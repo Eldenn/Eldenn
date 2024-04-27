@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Matthieu Chane Wen Ching
 - 👀 I’m interested in computer development
-- 🌱 I’m currently learning back-end engineering
-- 📫 How to reach me => phone : +33783068165, email : matthieu.chanewenc@gmail.com
+- 📫 How to reach me => email : matthieu.chanewenc@gmail.com
 
 Hello, I'm Matthieu and happy to get to know each other ! :)
 
